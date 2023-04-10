@@ -1,1 +1,2 @@
-đổi đuôi .env.txt thành .env
+dán accesstoken: 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
+vào .env
