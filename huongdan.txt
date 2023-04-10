@@ -1,2 +1,1 @@
-dán accesstoken: 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
-vào .env
+bạn cần nhập accesstoken vào .env
